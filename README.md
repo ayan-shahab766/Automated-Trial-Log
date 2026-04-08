@@ -114,7 +114,7 @@ Automated Trial Log is an AI-based courtroom management and transcription system
 - **Mistral-ai** - Ordersheet generation using case transcript  
 
 ### Database
-- PostreSQL
+- PostgreSQL
 
 ### Cloud Storage
 - SupaBase
