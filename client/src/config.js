@@ -1,7 +1,7 @@
 // API Configuration
 // Uses environment variable VITE_API_URL in production
 // Falls back to localhost for development
-export const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3000';
+export const API_BASE_URL = import.meta.env.VITE_API_URL || 'https://automated-trial-log.onrender.com';
 
 // Helper function to build full API URL
 export const getApiUrl = (endpoint) => {
